@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class Main{
     public static void main(String[] args){
-
+        
         //stack =  LIFO data structure, Last-In First-out
         //         stored objects into a sort of "Vertical Tower"
         //         Last element added to the stack will be the first element removed from the stack
